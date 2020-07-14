@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m frontend developer. I have been developing banking applications on React. In my free time I study new technologies.
+
 <!--
 **sandrig/sandrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
