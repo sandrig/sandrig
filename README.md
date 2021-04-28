@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Javascript Developer. I have been developing banking applications on React. In my free time I study new technologies.
+Frontend Developer with 4+ years of extensive experience. Specializes in developing React, TypeScript, Node.js and GraphQL.
 
 <!--
 **sandrig/sandrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
