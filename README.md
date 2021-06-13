@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer with 4+ years of extensive experience. Specializes in developing React, TypeScript, Node.js and GraphQL.
+Frontend Developer with 4+ years of extensive experience. Specializes in developing React, TypeScript, Next.js and Node.js.
 
 <!--
 **sandrig/sandrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
