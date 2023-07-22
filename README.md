@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there! My name is Andrey Savelev
 
-Software Engineer with 6+ years of extensive experience. Specializes in developing React, TypeScript and Node.js.
+I’m a software engineer with 6+ years of extensive experience. I specialize in front-end development, but I have little experience writing back-end services in NodeJS (NestJS), Java (Spring Boot), Python (Django, Flask, FastAPI).
 
-<!--
-**sandrig/sandrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help companies develop, release and maintain their projects.
 
-Here are some ideas to get you started:
+My professional interests are quite broad and include software architecture, cloud technologies, type systems, сybersecurity – to name just a few.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+React, TypeScript, Zustand/Mobx/Redux, GraphQL, Docker, NodeJS, NestJS, HTML, CSS, Git
+
