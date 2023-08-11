@@ -1,6 +1,6 @@
 ### About me
 
-Hi there! I'm Andrey Savelev, a passionate software engineer with 6+ years of experience specializing in front-end development. I also have some expertise in writing back-end services using NodeJS (NestJS). My goal is to help companies develop, release, and maintain their projects.
+Hi there! I'm Andrey Savelev, a passionate software engineer with 7+ years of experience specializing in front-end development. I also have some expertise in writing back-end services using NodeJS (NestJS). My goal is to help companies develop, release, and maintain their projects.
 
 My interests in frontend development encompass various aspects:
 
