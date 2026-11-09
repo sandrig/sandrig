@@ -1,24 +1,26 @@
-### About me
+## About me
 
-Hi there! I'm Andrey Savelev, a passionate software engineer with 7+ years of experience specializing in front-end development. I also have some expertise in writing back-end services using NodeJS (NestJS). My goal is to help companies develop, release, and maintain their projects.
+Hi, I'm Andrey Savelev, a senior front-end engineer with 10+ years of experience and hands-on back-end skills in Node.js and NestJS.. I help companies develop, release, and maintain their products.
 
-My interests in frontend development encompass various aspects:
+I follow AI-assisted development practices and adopt coding agents where company policy allows, with a focus on code privacy, human review, and verification.
 
-- Web Technologies: Staying up-to-date with the latest web technologies is vital to me. I'm always eager to explore new frameworks, libraries, and tools to enhance my development process.
-- Performance Optimization: I believe in the importance of optimizing websites for speed and performance. I enjoy finding ways to make applications faster and more efficient.
-- Frontend Architecture: I have a keen interest in organizing and structuring frontend code to maintain scalability and maintainability.
+**What I focus on**
 
-However, my interests in the world of technology extend beyond frontend development, encompassing various other exciting areas: Software Architecture, Cloud Technologies and Cybersecurity.
+- **End-to-end delivery:** taking features from API design and back-end logic to a polished UI and release
+- **AI-assisted development:** building practical workflows with coding agents, backed by code review, tests, and verification
+- **Performance:** making applications faster and more efficient on both the client and the server
+- **Architecture:** structuring front-end and back-end code so that it stays scalable and maintainable
 
-### Tech Stack
+## Tech Stack
 
-My tech stack includes but is not limited to:
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 and CSS3 (with preprocessors like Sass/SCSS and PostCSS)
-- Zustand, Mobx, Redux
-- RESTful APIs and GraphQL
-- Vite, Webpack, Parcel, or other bundlers/build tools
-- NodeJS (NestJS)
-- Docker
-- Version control with Git
+**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3
+
+**Front-end:** Zustand, MobX, Redux, Sass/SCSS, PostCSS
+
+**Back-end and APIs:** Node.js, NestJS, REST, GraphQL
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+**Infrastructure and tooling:** Docker, Git, Vite, Webpack, Parcel
+
+**AI tools:** Claude Code, Codex
