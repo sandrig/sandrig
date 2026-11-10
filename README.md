@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Andrey Savelev, a senior front-end engineer with 10+ years of experience and hands-on back-end skills in Node.js, NestJS and FastAPI.. I help companies develop, release, and maintain their products.
+Hi, I'm Andrey Savelev, a senior front-end engineer with 10+ years of experience and hands-on back-end skills in Node.js, NestJS and FastAPI. I help companies develop, release, and maintain their products.
 
 I follow AI-assisted development practices and adopt coding agents where company policy allows, with a focus on code privacy, human review, and verification.
 
