@@ -13,9 +13,9 @@ I follow AI-assisted development practices and adopt coding agents where company
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript (ES6+), Python, HTML5, CSS3
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS, SQL
 
-**Front-end:** Zustand, MobX, Redux, Sass/SCSS, PostCSS
+**Front-end:** React/VueJS, Zustand/MobX/Redux, React Hook Form, Apache Echarts, Piral, CSS/Sass/SCSS/PostCSS, Styled Components/Emotion
 
 **Back-end and APIs:** Node.js, NestJS, FastAPI,  REST, GraphQL
 
